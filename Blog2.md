@@ -134,8 +134,6 @@ Digital Health and Wearables:
 Mobile apps and wearable devices enable cancer patients to monitor their symptoms, track medication adherence, and communicate with healthcare providers.
 Remote Patient Monitoring: Continuous monitoring of vital signs and other health metrics can help healthcare teams intervene promptly if complications arise.
 
-<img src="https://github.com/23W-GBAC/RHYAN2/assets/148863405/30843989-235e-45e7-abd6-cf123d9cafe6
-" width="300" height="200">
 
 
 ### For more information bout cancer checkout the following videos
@@ -153,7 +151,7 @@ Chatgpt
 
 World Health Organisation(WHO)
 
- <img src="" width="700" height="500">
+ <img src="https://github.com/23W-GBAC/RHYAN2/assets/148863405/66afe6a6-23c8-41cc-9692-e5cb05adb095" width="700" height="500">
 
 
 
