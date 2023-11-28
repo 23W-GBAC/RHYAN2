@@ -1,5 +1,5 @@
 
- <img src="https://github.com/23W-GBAC/RHYAN2/assets/148863405/a80e241a-b5d8-48b3-903f-ad437d0b4fa3" width="400" height="200">
+ <img src="https://github.com/23W-GBAC/RHYAN2/assets/148863405/a80e241a-b5d8-48b3-903f-ad437d0b4fa3" width="700" height="200">
    
 
 # CANCER AWARENESS ITS CAUSES,EFFECTS AND USE OF MODERN TECHNOLOGY
@@ -88,7 +88,7 @@ Certain cancer survivors may face long-term health issues, such as cardiovascula
 
 ## TREATMENT OF CANCER USING MODERN TECHNOLOGYEarly Detection and Diagnosis:
  <img src="https://github.com/23W-GBAC/RHYAN2/assets/148863405/844e9c19-36f8-4059-9827-c847bd22a4ec
-" width="300" height="200">
+" width="600" height="200">
 
 #### 1 Medical Imaging:
 
