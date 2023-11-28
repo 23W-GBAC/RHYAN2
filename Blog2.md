@@ -85,7 +85,9 @@ Long-Term and Late Effects:
 #### Long-Term Health Issues:
 Certain cancer survivors may face long-term health issues, such as cardiovascular problems, hormonal imbalances, or secondary cancers resulting from treatment.
 
+
 ## TREATMENT OF CANCER USING MODERN TECHNOLOGYEarly Detection and Diagnosis:
+ <img src="https://github.com/23W-GBAC/RHYAN2/assets/148863405/a80e241a-b5d8-48b3-903f-ad437d0b4fa3" width="400" height="200">
 
 #### 1 Medical Imaging:
 
