@@ -151,8 +151,7 @@ Chatgpt
 
 World Health Organisation(WHO)
 
- <img src="https://github.com/23W-GBAC/RHYAN2/assets/148863405/66afe6a6-23c8-41cc-9692-e5cb05adb095" width="700" height="500">
-
+ 
 
 
 
