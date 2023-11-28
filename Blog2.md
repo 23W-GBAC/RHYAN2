@@ -87,8 +87,8 @@ Certain cancer survivors may face long-term health issues, such as cardiovascula
 
 
 ## TREATMENT OF CANCER USING MODERN TECHNOLOGYEarly Detection and Diagnosis:
- <img src="https://github.com/23W-GBAC/RHYAN2/assets/148863405/844e9c19-36f8-4059-9827-c847bd22a4ec
-" width="400" height="300">
+<img src="https://github.com/23W-GBAC/RHYAN2/assets/148863405/844e9c19-36f8-4059-9827-c847bd22a4ec
+" width="500" height="300">
 
 #### 1 Medical Imaging:
 
