@@ -1,5 +1,5 @@
 
- <img src="https://github.com/23W-GBAC/RHYAN2/assets/148863405/a80e241a-b5d8-48b3-903f-ad437d0b4fa3" width="400" height="500">
+ <img src="https://github.com/23W-GBAC/RHYAN2/assets/148863405/a80e241a-b5d8-48b3-903f-ad437d0b4fa3" width="700" height="500">
    
 
 # CANCER AWARENESS ITS CAUSES,EFFECTS AND USE OF MODERN TECHNOLOGY
