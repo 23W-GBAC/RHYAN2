@@ -1,5 +1,5 @@
 
- <img src="https://github.com/23W-GBAC/RHYAN2/assets/148863405/a80e241a-b5d8-48b3-903f-ad437d0b4fa3" width="700" height="500">
+ <img src="https://github.com/23W-GBAC/RHYAN2/assets/148863405/a80e241a-b5d8-48b3-903f-ad437d0b4fa3" width="400" height="200">
    
 
 # CANCER AWARENESS ITS CAUSES,EFFECTS AND USE OF MODERN TECHNOLOGY
@@ -47,9 +47,10 @@ https://youtu.be/SGaQ0WwZ_0I?feature=shared
 
 https://youtu.be/WPgJafGz4fg?feature=shared
 
+<img src="https://github.com/23W-GBAC/RHYAN2/assets/148863405/2c5bcc92-9a49-4a04-bf9e-b351ceff5794" width="700" height="500">
 
-
-## EFFECTS OF CANCER
+## EFFECTS OF CANCER                            
+                
 
 #### Fatigue: 
 
@@ -138,6 +139,9 @@ https://youtu.be/Mu3HmoOLTIY?feature=shared
 
 https://youtu.be/FEA6BQARqE8?feature=shared
 
+## CREDICTS TO
+National Cancer Institute
+Chatgpt
 
 
 
