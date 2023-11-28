@@ -133,6 +133,7 @@ Digital Health and Wearables:
 
 Mobile apps and wearable devices enable cancer patients to monitor their symptoms, track medication adherence, and communicate with healthcare providers.
 Remote Patient Monitoring: Continuous monitoring of vital signs and other health metrics can help healthcare teams intervene promptly if complications arise.
+
 <img src="https://github.com/23W-GBAC/RHYAN2/assets/148863405/21d690c0-ae04-4d3d-b195-10ed4bbf291c" width="300" height="200">
 
 
