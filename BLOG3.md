@@ -61,6 +61,7 @@ Many AI systems, especially those based on machine learning, operate on the prin
 </p>  
   AI systems rely on algorithms, sets of instructions or rules, to process data and make decisions. The choice of algorithm can significantly impact the performance of the AI system.
 
+
 ### Learning:
 
  Machine learning-based AI systems have the ability to learn from data and adapt their behavior over time. This can involve supervised learning, unsupervised learning, reinforcement learning, or a combination of these.
