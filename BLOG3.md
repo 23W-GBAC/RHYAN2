@@ -1,3 +1,6 @@
+![ai-technology-microchip-background-digital-transformation-concept](https://github.com/23W-GBAC/RHYAN2/assets/148863405/d1428c50-3ed7-4eae-aefc-507d43d7e2b7)
+
+
 # ARTIFICAL INTELLINGENCE.
 ## What does AI mean?
 
