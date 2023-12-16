@@ -61,6 +61,7 @@ Many AI systems, especially those based on machine learning, operate on the prin
 ### Learning:
 
  Machine learning-based AI systems have the ability to learn from data and adapt their behavior over time. This can involve supervised learning, unsupervised learning, reinforcement learning, or a combination of these.
+![ai-cloud-concept-with-robot-arm](https://github.com/23W-GBAC/RHYAN2/assets/148863405/26648278-4c06-4d21-9656-41aea99f0398)
 ## STEPS AN AI TAKES TO LOVE THE PROBLEM OR TASK GIVEN.
 ### Input:
 The AI system takes in information from the external environment. This input could be in the form of data, images, text, speech, or any other relevant format depending on the nature of the task.
