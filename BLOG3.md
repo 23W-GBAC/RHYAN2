@@ -1,4 +1,4 @@
-![ai-technology-microchip-background-digital-transformation-concept](https://github.com/23W-GBAC/RHYAN2/assets/148863405/d1428c50-3ed7-4eae-aefc-507d43d7e2b7)
+
 
 
 # ARTIFICAL INTELLINGENCE.
@@ -8,6 +8,8 @@ AI stands for "Artificial Intelligence." It refers to the development of compute
 AI'S are categorised into two types those being 
 #### Narrow AI which are desired to perform a specific tasks for example Reccomandation systems,Langualage transilation tools and many others and 
 #### Strong AI's are artificial intelligence that possesses the ability to understand, learn, and apply knowledge across a wide range of tasks at a level comparable to human intelligence
+
+![ai-technology-microchip-background-digital-transformation-concept](https://github.com/23W-GBAC/RHYAN2/assets/148863405/d1428c50-3ed7-4eae-aefc-507d43d7e2b7)
 ## How is an AI built?
 
 Creating an AI involves several key steps, and the process can vary depending on the type of AI you're creating and the complexity of the task it's intended to perform. 
