@@ -89,11 +89,15 @@ Artificial Intelligence is used in Education,Research,Manufacturing,Health secto
 B
 #### Credicts to;
 FREEP!K(https://www.freepik.com)
+
 TechTarget(https://www.techtarget.com)
+
 ChatGPT
+
 #### For more information about AI'S checkout
 
 https://youtu.be/LWiM-LuRe6w?si=5db8I3nGL5GzXTZW
+
  https://youtu.be/s0dMTAQM4cw?si=Xf9e7HA5WcJhXsQi
 
 #### By RHYAN
