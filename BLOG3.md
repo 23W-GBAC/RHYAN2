@@ -85,4 +85,15 @@ Once trained, the AI can make decisions or predictions based on new, unseen data
 ### Output
 The AI produces an output or result based on its processing of the input data. The output could be a decision, prediction, recommendation, or any other action relevant to the task.
 
-Artificial Intelligence is used in Education,Research,Manufacturing,Health sector ,enternatinment through video games and very many other sectors. It has become increasingly usefulto humansas they are first,handle repetitive tasks,precision,consistance and there being atomatic in nature
+Artificial Intelligence is used in Education,Research,Manufacturing,Health sector ,enternatinment through video games and very many other sectors. It has become increasingly usefulto humans as they are first,handle repetitive tasks,precision,consistance and there being atomatic in nature
+B
+#### Credicts to;
+FREEP!K(https://www.freepik.com)
+TechTarget(https://www.techtarget.com)
+ChatGPT
+#### For more information about AI'S checkout
+
+https://youtu.be/LWiM-LuRe6w?si=5db8I3nGL5GzXTZW
+ https://youtu.be/s0dMTAQM4cw?si=Xf9e7HA5WcJhXsQi
+
+#### By RHYAN
