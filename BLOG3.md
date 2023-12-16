@@ -57,9 +57,10 @@ Update the model as needed to adapt to changes in data distribution or task requ
 Many AI systems, especially those based on machine learning, operate on the principle of being data-driven. They learn patterns and make decisions based on the data they have been trained on.
 ### Algorithms:
 <p align="center">
-![image](https://github.com/23W-GBAC/RHYAN2/assets/148863405/539cc48d-5b4c-45b5-bb80-1659cea934e4)
+<img src="https://github.com/23W-GBAC/RHYAN2/assets/148863405/539cc48d-5b4c-45b5-bb80-1659cea934e4" width="300"/>
 </p>  
   AI systems rely on algorithms, sets of instructions or rules, to process data and make decisions. The choice of algorithm can significantly impact the performance of the AI system.
+
 ### Learning:
 
  Machine learning-based AI systems have the ability to learn from data and adapt their behavior over time. This can involve supervised learning, unsupervised learning, reinforcement learning, or a combination of these.
