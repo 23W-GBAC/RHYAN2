@@ -1,4 +1,4 @@
-
+![ai-technology-microchip-background-digital-transformation-concept](https://github.com/23W-GBAC/RHYAN2/assets/148863405/082e0230-900c-4cce-b752-1f46c80db7e6)
 
 
 # ARTIFICAL INTELLINGENCE.
