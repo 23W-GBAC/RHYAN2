@@ -4,3 +4,6 @@ However,accesssing curated and up to date information to cancer related news can
 
 # AIM OF THE PROJECT.
 To generate a centralized platform that aggregates and displays the latest news and advancements in the field of cancer.The goal is to bridge the gap in accessing timely and relevant information,fostering awareness and knowledge in the ever evolving landscape of cancer research and treatment
+## TOOL TO USE FOR THE PROJECT.
+After carrying out some resarch discovered that there several tools to use for my project that being java,javascript,c++ and others.But am going to use python for this specific project as I have some knowledge about python.
+We  giong to use python to create a website that gives infomation about the latest information about cancer using its flask model and a News API
