@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cancer News</title>
+</head>
+<body>
+    <h1>Latest News about Cancer Advancements</h1>
+
+    <ul>
+        {% for article in articles %}
+            <li>
+                <h3>{{ article.title }}</h3>
+                <p>{{ article.description }}</p>
+                <p><a href="{{ article.url }}" target="_blank">Read more</a></p>
+            </li>
+        {% endfor %}
+    </ul>
+</body>
+</html>
