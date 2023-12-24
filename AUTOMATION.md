@@ -7,3 +7,19 @@ To generate a centralized platform that aggregates and displays the latest news 
 ## TOOL TO USE FOR THE PROJECT.
 After carrying out some resarch discovered that there several tools to use for my project that being java,javascript,c++ and others.But am going to use python for this specific project as I have some knowledge about python.
 We  giong to use python to create a website that gives infomation about the latest information about cancer using its flask model and a News API
+### TASK1
+  Writing a code to create the app.Using python import Flask a web framework and requests a library for making HTTP requests.
+Setting up a source for the information am going to used an API called newsAPI.org registered and obtained an access token.Created a templates folder and open up an Index.html file. This HTML template uses Jinja2 templating syntax to dynamically display the latest news articles. It loops through the list of news articles obtained from the Flask route and displays relevant information such as title, description, source, and a link to read more.Then use the flask render template function to the Index.html in the template folder.
+###RUNNING THE APP.
+After writing the python script and rendering the Index.httml in the template file it took gave me a link that runs on net and gave me results showing the latest cancer news.
+#### Then copied my code and put in into the script.py,copied the index. file,gitinore and requirements.txt file to my github repository.
+#### Challenge.
+Since my repository is public repo my code can be accesed by anyone and so is myAPI key.I used chatgpt to give a solution.
+For this I created a new secretes repository on github and have it as a variablethen replaced the API in my code by the variable and imported the os module of python which was added to my code.After this my API code was secured
+
+
+##### import os
+
+##### api_key = os.environ.get('YOUR_API_KEY')
+
+
