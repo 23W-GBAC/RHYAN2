@@ -11,7 +11,7 @@ We  giong to use python to create a website that gives infomation about the late
   Writing a code to create the app.Using python import Flask a web framework and requests a library for making HTTP requests.
 Setting up a source for the information am going to used an API called newsAPI.org registered and obtained an access token.Created a templates folder and open up an Index.html file. This HTML template uses Jinja2 templating syntax to dynamically display the latest news articles. It loops through the list of news articles obtained from the Flask route and displays relevant information such as title, description, source, and a link to read more.Then use the flask render template function to the Index.html in the template folder.
 
-###RUNNING THE APP.
+### RUNNING THE APP.
 After writing the python script and rendering the Index.httml in the template file it took gave me a link that runs on net and gave me results showing the latest cancer news.
 #### Then copied my code and put in into the main.py,copied the index.html file,gitinore and requirements.txt file to my github repository.
 #### Challenge.
