@@ -1,3 +1,4 @@
+
 # AUTOMATION PROJECT.
 AM writig an automation project based to my second blog taking about cancer.Acording to the research it is hd to stay informed about the latest advancements and new in cancer yet this is very important for both medical proffessionals,patients and we as students who are interested in the health sector and willing and motivated to to add more onto it
 However,accesssing curated and up to date information to cancer related news can be challenging.Existing platforms lack a dedicated source for comprehensive,real time news specifically tailored to the advancements in a cancer sector as it focuses on a lot of stuff. I being a victims to this during the research I was doing to write my blog about the disease.
@@ -25,4 +26,9 @@ For this I created a new secretes repository on github and saved it as a variabl
 
 ### TASK2
 Automating the script.
+Create a .github/workflows directory in the root of your Python project, and then add a YAML file inside it.Then checkout if the code runs with no error.then after edit the yaml file to indicate the period of time after which the python code should run
+### Challenge.
+The code is running without stopping.
+According to chatGPT By default, Flask applications don't stop automatically. They typically run continuously until you manually stop them. When you run a Flask application using the app.run() method, it starts a web server, and the application will keep running until you interrupt the process.
+#### solution.
 
