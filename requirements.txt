@@ -4,6 +4,7 @@ charset-normalizer==3.3.2
 click==8.1.7
 colorama==0.4.6
 Flask==3.0.0
+gunicorn==21.2.0
 idna==3.6
 importlib-metadata==7.0.0
 itsdangerous==2.1.2
