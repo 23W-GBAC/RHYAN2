@@ -40,3 +40,8 @@ To solve the challenge of the code running without stopping.We going to edit the
 Automation of the file can me done by modifying the github overflows file by editing tehe yaml file by scheduling it
 The on section is replaced with the schedule event.
 The cron syntax '0 0 */2 * *' specifies a cron expression that triggers the workflow every two days at midnight UTC.
+###### name: Cancer Workflow
+
+###### on:
+######  schedule:
+######    - cron: '0 0 */2 * *'
