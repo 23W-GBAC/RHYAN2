@@ -31,4 +31,12 @@ Create a .github/workflows directory in the root of your Python project, and the
 The code is running without stopping.
 According to chatGPT By default, Flask applications don't stop automatically. They typically run continuously until you manually stop them. When you run a Flask application using the app.run() method, it starts a web server, and the application will keep running until you interrupt the process.
 #### solution.
+To solve the challenge of the code running without stopping.We going to edit the code my adding a timeout stop the code from running after three minutes.By adding this line in the yaml file.
+ ###### - name: Run Your Code
+######      timeout-minutes: 2
+######      run: python main.py
 
+### Automating the project.
+Automation of the file can me done by modifying the github overflows file by editing tehe yaml file by scheduling it
+The on section is replaced with the schedule event.
+The cron syntax '0 0 */2 * *' specifies a cron expression that triggers the workflow every two days at midnight UTC.
