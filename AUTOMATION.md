@@ -45,12 +45,16 @@ The cron syntax '0 0 */2 * *' specifies a cron expression that triggers the work
 ###### on:
 ######  schedule:
 ######    - cron: '0 0 */2 * *'
+
 #### CHALLENGE.
 The web application only runs on my local machine and can not run on other machines this because;
 When you run a Flask application locally, you typically use the development server provided by Flask, which is suitable for testing and development purposes. This server is lightweight and easy to use but is not suitable for production use due to its limitations in terms of performance, security, and features.
 For production deployment, Flask applications are often run using production-ready web servers like Gunicorn, uWSGI, or mod_wsgi, and they can be deployed on servers, cloud platforms, or container orchestration systems.
+
 #####SOLUTION.
-TO make my flask app run on gitbub am going to run it using a gunicorn server.
+To make my flask app run on gitbub am going to run it using a gunicorn server.
+
 steps.
+
 1.installing gunicorn using pip with command "pip install gunicorn"
 2.
