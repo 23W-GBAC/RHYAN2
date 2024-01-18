@@ -15,7 +15,7 @@
 
 The causes of mental illness can be environmental physical and phycological as otlined below;
 
-## 1.Drug abuse
+## 1.Drug abuse.
 
 Drugs are items that change a person's mental state for example cocaine,alcohol,cannabis also known as weed and many others.These can lead to disruption of the chemical componentsof the brian by  interfering with the normal activity of neurotransmitters in the brain, leading to chemical imbalances. This disruption can affect mood, cognition, and behavior, potentially exacerbating or triggering mental health condotion.The use of these substances can also  impair judgment, leading to risky behaviors and poor decision-making whichresults into personal and occupational problems, which can further contribute to mental health issues.
 
