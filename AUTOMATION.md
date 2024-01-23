@@ -51,10 +51,17 @@ The web application only runs on my local machine and can not run on other machi
 When you run a Flask application locally, you typically use the development server provided by Flask, which is suitable for testing and development purposes. This server is lightweight and easy to use but is not suitable for production use due to its limitations in terms of performance, security, and features.
 For production deployment, Flask applications are often run using production-ready web servers like Gunicorn, uWSGI, or mod_wsgi, and they can be deployed on servers, cloud platforms, or container orchestration systems.
 
-#####SOLUTION.
-To make my flask app run on gitbub am going to run it using a gunicorn server.
+##### SOLUTION.
+
+To make my flask app run on gitbub am going to run it using a gunicorn server a
 
 steps.
 
-1.installing gunicorn using pip with command "pip install gunicorn"
-2.
+1.installing gunicorn using pip with command "pip install gunicorn" add  using Zeet run the app .It involves creating a zeet account,In ZEET there is a need to select an cloud server to run the automation project for example AWP(Amazon Web providers),Digital Ocean,Google cloud platform,Microsoft Azure,Vultre and maymore others after that there is need to create a connection between my github account and zeet and then run the app.
+
+In the process of deploying my Flask app, I initiated the installation of Gunicorn locally using the command "pip install gunicorn." Subsequently, I created accounts on Zeet and Amazon Web Providers (AWP). After obtaining an AWP token, I integrated it into my Zeet account to facilitate the deployment of my project in the cloud. However, during the AWP account creation, I encountered a request for bank account details and a 5 euros fee. Since my goal is to utilize the code exclusively for local purposes without seeking any monetary gains, I decided to forego the production phase with AWP and continued running my project locally on my machine only.
+
+### CONCLUSION.
+
+The automation project serves as a valuable tool, keeping me effortlessly informed about the latest Cancer news and medical breakthroughs. It not only saves me precious time that would otherwise be spent scouring the internet for updates but also ensures I stay up-to-date on the latest advancements in the medical field, particularly in the realm of cancer research. This streamlined approach allows me to effortlessly stay connected with the latest developments without the hassle of manual searches.
+
