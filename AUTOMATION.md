@@ -77,32 +77,6 @@ Ease of Learning:
 Modular Structure:
 
  Flask's modular design simplifies component management, potentially lowering maintenance costs.
-#### Advantages of Using Flask app.
-Lightweight:
 
- Flask's lightweight nature ensures faster response times and better performance, crucial for a local health app.
-Flexibility:
 
- Flask provides flexibility in choosing libraries and tools, adapting well to specific requirements of a health app.
-Community Support:
-
- Flask's active community offers extensive support and documentation, potentially saving time and costs during development.
-Integration with Python Ecosystem:
-
- Flask seamlessly integrates with the Python ecosystem, enabling easy incorporation of health-related Python libraries.
-Disadvantages of Using Flask for a Local Health App:
-Limited Built-in Features:
-
-#### Disadvantage of using the flask app.
-
-Flask's minimalistic approach may require additional development effort for advanced features, potentially increasing costs.
-Less Opinionated:
-
- Flask's flexibility, while an advantage, may lead to non-standardized implementations, potentially raising maintenance costs.
-Scalability Concerns:
-
- Flask may face scalability challenges for large-scale applications, potentially incurring increased costs for significant architectural changes.
-Not Suitable for All Projects:
-
- Flask may not be the best fit for all projects, particularly those requiring extensive built-in functionalities provided by larger frameworks.
 
