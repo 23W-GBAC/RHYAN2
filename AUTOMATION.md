@@ -67,16 +67,25 @@ The automation project serves as a valuable tool, keeping me effortlessly inform
 
 
 
-### COST BENEFITS.
-Low Development Time:
+### Cost Analysis
 
- Flask's simple and lightweight design facilitates rapid development, reducing overall development costs.
-Ease of Learning:
+1. Open Source Framework:
 
- Flask's user-friendly nature lowers training costs, as it is known for its simplicity and ease of learning.
-Modular Structure:
+Advantage: Utilizing Flask as an open-source framework eliminates licensing fees, contributing to significant cost savings.
 
- Flask's modular design simplifies component management, potentially lowering maintenance costs.
+3. Low Development Time:
+
+Advantage: Flask's streamlined and lightweight design facilitates rapid development, effectively reducing overall development costs.
+
+4. Ease of Learning:
+
+Advantage: Flask's user-friendly nature minimizes training costs, as it is renowned for its simplicity and ease of learning.
+
+5. Modular Structure:
+
+Advantage: Flask's modular design simplifies component management, potentially resulting in lower maintenance costs.
+
+
 
 
 
